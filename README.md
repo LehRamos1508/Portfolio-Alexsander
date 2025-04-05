@@ -23,7 +23,7 @@ Este portfólio foi desenvolvido com foco na simplicidade, clareza e responsivid
 
 ## 📸 Captura de Tela
 
-![Portfólio - Alexsander Ferreira](./Screenshot%202025-04-05%20at%2010-54-32%20Alexsander%20Ramos%20-%20Desenvolvedor.png)
+![Portfólio - Alexsander Ferreira](Imagens/portfolioAlexsander.png)
 
 ## 📫 Contato
 
